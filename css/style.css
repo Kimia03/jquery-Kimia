@@ -1,0 +1,52 @@
+h4{
+    color: #008000;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: aquamarine;
+    padding: 60px;
+}
+h1{
+    padding: 30px;
+    color: #800080;
+    text-align: center;
+}
+input, button{
+    
+}
+body{
+
+    background-color: #ffebcd;
+}
+.owl-carousel .owl-item img {
+    display: block;
+    width: 30%;
+}
+img{
+    min-width: 10px;
+    height: 60px;
+    
+    
+}
+#panel, #flip {
+  padding: 5px;
+  text-align: center;
+  background-color: #808080;
+  border: solid 1px #c3c3c3;
+}
+
+#panel {
+  padding: 50px;
+  display: none;
+}
+
+.ani{
+    color:#ffffff;
+    text-align: center;
+    background: #ff0000;
+    height:100px;
+    width:100px;
+    position:absolute;
+}
+.owl-nav button{
+    
+}
